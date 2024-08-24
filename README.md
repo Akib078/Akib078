@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akib Rahman</h1>
-<h3 align="center">A passionate Software QA Engineer</h3>
+<h3 align="center">A Passionate Software QA Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akib078&label=Profile%20views&color=0e75b6&style=flat" alt="akib078" /> </p>
 
