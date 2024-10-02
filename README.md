@@ -5,7 +5,7 @@
 
 - 🔭 I have graduated from **BRAC University in CSE**
 
-- 🌱 I’m currently learning **Appium, JMeter**
+- 🌱 I’m currently a trainee at **IT Training BD (SQA Trainee)**
 
 - 👯 I’m have an experience in **SQA Internship at A1QA Company**
 
