@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rahmanakib03@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sh5JXmF24vg--KC-Dq17YEgUixo3NLxM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nsb9mK4y73XkGRcpdtDV1Prs367FPzUG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
