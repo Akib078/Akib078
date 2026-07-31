@@ -5,13 +5,13 @@
 
 - 🔭 I have graduated from **BRAC University in CSE**
 
+- 👯 Currently working as **QA Engineer at Falaq Digital**
+
 - 🌱 I have completed training at **IT Training BD (SQA Trainee)**
 
 - 👯 I’m have an experience in **SQA Internship at A1QA Company**
 
 - 📫 How to reach me **rahmanakib03@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nsb9mK4y73XkGRcpdtDV1Prs367FPzUG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
