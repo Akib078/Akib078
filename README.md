@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akib078&label=Profile%20views&color=0e75b6&style=flat" alt="akib078" /> </p>
 
-- 🔭 I have graduated from **BRAC University in CSE**
+- 🎓 I have graduated from **BRAC University in CSE**
 
-- 👯 Currently working as **QA & Product Management Support at Tenels**
+- 💼 Currently working as **QA & Product Management Support at Tenels**
 
-- 🌱 I have completed training at **IT Training BD (SQA Trainee)**
+- 📚 I have completed training at **IT Training BD (SQA Trainee)**
 
-- 👯 I’m have an experience in **SQA Internship at A1QA Company**
+- 📊 I’m have worked as **Business Analyst - Compliance at First4Freelancers**
+
+- 🧪 I’m have an experience in **SQA Internship at A1QA Company**
 
 - 📫 How to reach me **rahmanakib03@gmail.com**
 
