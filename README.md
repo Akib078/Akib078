@@ -5,7 +5,7 @@
 
 - 🔭 I have graduated from **BRAC University in CSE**
 
-- 👯 Currently working as **QA Engineer at Falaq Digital**
+- 👯 Currently working as **QA & Product Management Support at Tenels**
 
 - 🌱 I have completed training at **IT Training BD (SQA Trainee)**
 
